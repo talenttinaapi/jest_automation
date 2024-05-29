@@ -8,9 +8,9 @@ This repository contains a collection of projects ranging from simple JavaScript
 ## Projects
 Browse through the various projects to explore different use cases, implementations, and testing strategies:
 
-- **Project 1:** [Description]
-- **Project 2:** [Description]
-- **Project 3:** [Description]
+- **Project 1:** [Basics]
+- **Project 2:** [Matchers]
+- **Project 3:** [Testing Async Javascript]
 
 ## Getting Started
 1. Clone this repository.
